@@ -1,0 +1,98 @@
+.p{
+	position: absolute;
+	top: 30px;
+	left: 400px;
+	width: 580px;
+	height: 600px;
+	background: red;
+}
+.t{ 
+	position: absolute;
+	top: 7px;
+	left: 210px;
+	color: yellow;
+	font-size:20px; 
+	font-family: t;
+}
+.c{
+	position: absolute;
+	top: 580px;
+	left: 80px;
+	width: 420px;
+	height: 20px;
+	background: yellow;
+}
+.cu{
+	position: absolute;
+	top: 0px;
+	left: 80px;
+	width: 420px;
+	height: 20px;
+	background: yellow;
+}
+.te{
+	position: absolute;
+	top: 95px;
+	left: 120px;
+	color: yellow;
+	font-size:17px;
+	
+}
+@font-face{
+	font-family: te;
+	src:url(aAhaWow.ttf);
+}
+.tex{
+	position: absolute;
+	top: 120px;
+	left: 180px;
+	color: white;
+	font-size:25px;
+	
+}
+.texo{
+	position: absolute;
+	top: 250px;
+	left: 170px;
+	
+}
+.text{
+	position: absolute;
+	top: 268px;
+	left: 190px;
+	font-size:19px;
+	
+}
+.imgen{
+	position:absolute;
+	top: 350px;
+	left: 250px;
+	height: 100px;
+	width: 100px;
+	background:url(pito.png) no-repeat ;
+	background-size: contain;
+}
+.imgen1{
+	position:absolute;
+	top: 350px;
+	left: 230px;
+	height: 200px;
+	width: 200px;
+	background:url(tambor.png) no-repeat ;
+	background-size: contain;
+}
+.imgen2{
+	position:absolute;
+	top: 350px;
+	left: 250px;
+	height: 100px;
+	width: 100px;
+	background:url(pito.png) no-repeat ;
+	background-size: contain;
+	z-index: 30px;
+}
+
+@font-face{
+	font-family: t;
+	src:url(aAhaWow.ttf);
+}
